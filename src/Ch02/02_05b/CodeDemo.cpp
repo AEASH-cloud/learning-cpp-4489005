@@ -12,7 +12,6 @@ int main(){
     auto d = 3.14;
     auto e = true;
     auto f = 'd';
-    auto go = "C++ rocks!";
 
     std::cout<< "The type of a is " << typeid(a).name() << std::endl;
 
