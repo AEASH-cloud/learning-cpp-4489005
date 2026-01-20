@@ -3,6 +3,10 @@
 // Preprocessor directives, by Eduardo Corpeño 
 
 #include <iostream>
+#include <string>
+#include <cstdint>
+
+#define CAPACITY 5000
 
 int main(){
     
