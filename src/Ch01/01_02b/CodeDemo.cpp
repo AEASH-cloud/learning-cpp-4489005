@@ -1,11 +1,12 @@
 // Learning C++ 
 // Exercise 01_02
 // Hello World, by Eduardo Corpeño 
+
 #include <iostream>
-using namespace std;
 
-int main (){
-    cout<<"Hello World\n";
-    return 0;
+int main(){
+    std::cout << "Hi There!" << std::endl;
+
+    std::cout << std::endl << std::endl;
+    return (0);
 }
-
